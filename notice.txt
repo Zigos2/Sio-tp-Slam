@@ -1,0 +1,73 @@
+NOTICE DU JEU QUIZ - GWILLYANN ET FRANCOIS
+
+=== FONCTIONNALITÉS DU JEU ===
+
+1. MENU PRINCIPAL
+   - Choix entre différents thèmes de quiz :
+     • Culture Générale
+     • Géographie
+     • Le Monde Animal
+     • Langues du Monde
+   - Option pour quitter le jeu (tapez 0)
+
+2. SYSTÈME DE QUESTIONS
+   - 10 questions aléatoires par partie
+   - Deux types de questions :
+     • Questions simples (une seule réponse)
+     • Questions à choix multiples (plusieurs réponses)
+   - Questions mélangées à chaque partie
+
+3. FORMAT DES QUESTIONS
+   - Affichage du numéro de la question
+   - Énoncé de la question
+   - 4 à 6 choix de réponses possibles
+   - Choix mélangés à chaque fois
+
+=== COMMANDES DU JOUEUR ===
+
+1. AU DÉMARRAGE
+   - Entrez votre nom quand demandé
+   - Choisissez un quiz en tapant son numéro (1-4)
+   - Tapez 0 pour quitter
+   
+   - apres avoir démarrer le quizz, choisir le nombre de questions du quizz (entre 1 et 10)
+
+2. PENDANT LE JEU
+   Pour les questions simples :
+   - Tapez le numéro de votre réponse (ex: 2)
+
+   Pour les questions à choix multiples :
+   - Tapez les numéros séparés par des espaces (ex: 1 3 4)
+
+   Pour quitter le quizz :
+   - Taper " EXIT " pour quitter le quizz et retourner au menu 
+
+3. FIN DE PARTIE
+   Après avoir vu votre score, choisissez :
+   - Tapez 1 pour rejouer le même quiz
+   - Tapez 2 pour choisir un autre quiz
+   - Tapez 3 pour quitter le jeu
+
+=== THÈMES ET QUESTIONS ===
+
+• Culture Générale : 15 questions disponibles
+• Géographie : 13 questions disponibles
+• Monde Animal : 13 questions disponibles
+• Langues du Monde : 13 questions disponibles
+
+Le jeu sélectionne aléatoirement 10 questions parmi celles disponibles dans le thème choisi.
+
+=== SYSTÈME DE SCORE ===
+
+• +1 point par bonne réponse
+• 0 point pour une réponse incorrecte
+• Score final sur 10 points
+
+=== CONSEILS ===
+
+• Lisez attentivement si la question accepte une ou plusieurs réponses
+• Pour les questions à choix multiples, toutes les bonnes réponses sont nécessaires
+• En cas d'erreur de frappe, vous pouvez réessayer
+• Le jeu vous indiquera toujours la bonne réponse en cas d'erreur
+
+Bon jeu ! 

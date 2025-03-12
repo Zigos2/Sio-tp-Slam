@@ -1,0 +1,410 @@
+{
+    "quiz_disponibles": [
+        {
+            "id": "geographie",
+            "nom": "Géographie",
+            "nombre_questions": 10,
+            "questions": [
+                {
+                    "question": "Quel est la capitale du Pérou ?",
+                    "reponses_possibles": ["Lima", "Bogota", "Quito", "Santiago", "La Paz", "Caracas", "Buenos Aires"],
+                    "reponses_correctes": ["Lima"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quels sont les pays frontaliers du Pérou ?",
+                    "reponses_possibles": ["Brésil", "Bolivie", "Chili", "Équateur", "Colombie", "Venezuela", "Paraguay"],
+                    "reponses_correctes": ["Brésil", "Bolivie", "Chili", "Équateur", "Colombie"],
+                    "nombre_choix": 6,
+                    "type": "multiple"
+                },
+                {
+                    "question": "Quelle est la capitale de l'Australie ?",
+                    "reponses_possibles": ["Sydney", "Melbourne", "Canberra", "Brisbane", "Perth", "Adelaide"],
+                    "reponses_correctes": ["Canberra"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quel est le plus grand océan du monde ?",
+                    "reponses_possibles": ["Océan Pacifique", "Océan Atlantique", "Océan Indien", "Océan Arctique"],
+                    "reponses_correctes": ["Océan Pacifique"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quels pays font partie de la Scandinavie ?",
+                    "reponses_possibles": ["Norvège", "Suède", "Danemark", "Finlande", "Islande", "Estonie"],
+                    "reponses_correctes": ["Norvège", "Suède", "Danemark"],
+                    "nombre_choix": 5,
+                    "type": "multiple"
+                },
+                {
+                    "question": "Quel est le plus long fleuve d'Europe ?",
+                    "reponses_possibles": ["Volga", "Danube", "Rhin", "Seine", "Loire", "Dniepr"],
+                    "reponses_correctes": ["Volga"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                },
+                {
+                    "question": "Dans quel pays se trouve le Kilimandjaro ?",
+                    "reponses_possibles": ["Tanzanie", "Kenya", "Ouganda", "Rwanda", "Éthiopie"],
+                    "reponses_correctes": ["Tanzanie"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quelles sont les plus grandes îles du monde ?",
+                    "reponses_possibles": ["Groenland", "Nouvelle-Guinée", "Bornéo", "Madagascar", "Sumatra", "Grande-Bretagne"],
+                    "reponses_correctes": ["Groenland", "Nouvelle-Guinée", "Bornéo"],
+                    "nombre_choix": 5,
+                    "type": "multiple"
+                },
+                {
+                    "question": "Quel est le plus petit pays du monde ?",
+                    "reponses_possibles": ["Vatican", "Monaco", "Nauru", "Saint-Marin", "Tuvalu"],
+                    "reponses_correctes": ["Vatican"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quels déserts se trouvent en Afrique ?",
+                    "reponses_possibles": ["Sahara", "Kalahari", "Namib", "Gobi", "Atacama", "Arabian"],
+                    "reponses_correctes": ["Sahara", "Kalahari", "Namib"],
+                    "nombre_choix": 5,
+                    "type": "multiple"
+                },
+                {
+                    "question": "Quelle est la capitale du Japon ?",
+                    "reponses_possibles": ["Tokyo", "Kyoto", "Osaka", "Hiroshima", "Nagoya"],
+                    "reponses_correctes": ["Tokyo"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quels pays bordent la Mer Méditerranée ?",
+                    "reponses_possibles": ["France", "Espagne", "Italie", "Grèce", "Maroc", "Allemagne"],
+                    "reponses_correctes": ["France", "Espagne", "Italie", "Grèce", "Maroc"],
+                    "nombre_choix": 6,
+                    "type": "multiple"
+                },
+                {
+                    "question": "Quelle est la plus haute montagne d'Europe ?",
+                    "reponses_possibles": ["Mont Blanc", "Mont Elbrouz", "Cervin", "Mont Rose", "Zugspitze"],
+                    "reponses_correctes": ["Mont Elbrouz"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                }
+            ]
+        },
+        {
+            "id": "animaux",
+            "nom": "Le Monde Animal",
+            "nombre_questions": 10,
+            "questions": [
+                {
+                    "question": "Quels sont les grands félins ?",
+                    "reponses_possibles": ["Lion", "Tigre", "Jaguar", "Léopard", "Chat", "Guépard", "Lynx"],
+                    "reponses_correctes": ["Lion", "Tigre", "Jaguar", "Léopard"],
+                    "nombre_choix": 6,
+                    "type": "multiple"
+                },
+                {
+                    "question": "Quel animal peut vivre le plus longtemps ?",
+                    "reponses_possibles": ["Tortue géante", "Baleine bleue", "Éléphant", "Perroquet", "Requin", "Méduse"],
+                    "reponses_correctes": ["Méduse"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quel est l'animal le plus rapide du monde ?",
+                    "reponses_possibles": ["Guépard", "Antilope", "Faucon pèlerin", "Lion", "Gazelle"],
+                    "reponses_correctes": ["Faucon pèlerin"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quels animaux sont des marsupiaux ?",
+                    "reponses_possibles": ["Kangourou", "Koala", "Wombat", "Panda", "Opossum", "Écureuil"],
+                    "reponses_correctes": ["Kangourou", "Koala", "Wombat", "Opossum"],
+                    "nombre_choix": 6,
+                    "type": "multiple"
+                },
+                {
+                    "question": "Combien de cœurs a une pieuvre ?",
+                    "reponses_possibles": ["3", "2", "4", "1", "5"],
+                    "reponses_correctes": ["3"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quels sont les animaux qui hibernent ?",
+                    "reponses_possibles": ["Ours", "Marmotte", "Hérisson", "Écureuil", "Lion", "Loup"],
+                    "reponses_correctes": ["Ours", "Marmotte", "Hérisson"],
+                    "nombre_choix": 5,
+                    "type": "multiple"
+                },
+                {
+                    "question": "Quel est le plus grand reptile du monde ?",
+                    "reponses_possibles": ["Crocodile marin", "Anaconda", "Dragon de Komodo", "Python réticulé"],
+                    "reponses_correctes": ["Crocodile marin"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quels oiseaux ne volent pas ?",
+                    "reponses_possibles": ["Autruche", "Pingouin", "Kiwi", "Émeu", "Aigle", "Colibri"],
+                    "reponses_correctes": ["Autruche", "Pingouin", "Kiwi", "Émeu"],
+                    "nombre_choix": 6,
+                    "type": "multiple"
+                },
+                {
+                    "question": "Quel animal dort le plus longtemps par jour ?",
+                    "reponses_possibles": ["Koala", "Paresseux", "Chat", "Lion", "Chauve-souris"],
+                    "reponses_correctes": ["Koala"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quels animaux sont venimeux ?",
+                    "reponses_possibles": ["Cobra", "Scorpion", "Araignée veuve noire", "Tortue", "Hamster"],
+                    "reponses_correctes": ["Cobra", "Scorpion", "Araignée veuve noire"],
+                    "nombre_choix": 5,
+                    "type": "multiple"
+                },
+                {
+                    "question": "Quel est le plus petit oiseau du monde ?",
+                    "reponses_possibles": ["Colibri d'Elena", "Roitelet", "Mésange", "Troglodyte mignon"],
+                    "reponses_correctes": ["Colibri d'Elena"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quels animaux sont des primates ?",
+                    "reponses_possibles": ["Gorille", "Chimpanzé", "Orang-outan", "Babouin", "Panda", "Koala"],
+                    "reponses_correctes": ["Gorille", "Chimpanzé", "Orang-outan", "Babouin"],
+                    "nombre_choix": 6,
+                    "type": "multiple"
+                },
+                {
+                    "question": "Quel animal peut régénérer sa queue ?",
+                    "reponses_possibles": ["Lézard", "Salamandre", "Gecko", "Serpent", "Crocodile"],
+                    "reponses_correctes": ["Lézard"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                }
+            ]
+        },
+        {
+            "id": "langues",
+            "nom": "Langues du Monde",
+            "nombre_questions": 10,
+            "questions": [
+                {
+                    "question": "Comment dit-on plage en espagnol ?",
+                    "reponses_possibles": ["playa", "beach", "praia", "spiaggia", "strand", "plaża", "παραλία"],
+                    "reponses_correctes": ["playa"],
+                    "nombre_choix": 5,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quelles langues utilisent l'alphabet cyrillique ?",
+                    "reponses_possibles": ["Russe", "Bulgare", "Grec", "Serbe", "Roumain", "Ukrainien", "Polonais"],
+                    "reponses_correctes": ["Russe", "Bulgare", "Serbe", "Ukrainien"],
+                    "nombre_choix": 6,
+                    "type": "multiple"
+                },
+                {
+                    "question": "Comment dit-on 'merci' en japonais ?",
+                    "reponses_possibles": ["Arigato", "Xiexie", "Kamsahamnida", "Danke", "Gracias"],
+                    "reponses_correctes": ["Arigato"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quelles langues sont d'origine latine ?",
+                    "reponses_possibles": ["Français", "Italien", "Espagnol", "Portugais", "Allemand", "Anglais"],
+                    "reponses_correctes": ["Français", "Italien", "Espagnol", "Portugais"],
+                    "nombre_choix": 6,
+                    "type": "multiple"
+                },
+                {
+                    "question": "Comment dit-on 'bonjour' en arabe ?",
+                    "reponses_possibles": ["Salam", "Hola", "Namaste", "Bonjour", "Hello"],
+                    "reponses_correctes": ["Salam"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quelles langues utilisent des idéogrammes ?",
+                    "reponses_possibles": ["Chinois", "Japonais", "Coréen", "Thaï", "Hindi", "Arabe"],
+                    "reponses_correctes": ["Chinois", "Japonais"],
+                    "nombre_choix": 5,
+                    "type": "multiple"
+                },
+                {
+                    "question": "Comment dit-on 'je t'aime' en italien ?",
+                    "reponses_possibles": ["Ti amo", "Te quiero", "I love you", "Ich liebe dich", "Je t'aime"],
+                    "reponses_correctes": ["Ti amo"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quelles langues sont officielles à l'ONU ?",
+                    "reponses_possibles": ["Anglais", "Français", "Espagnol", "Chinois", "Russe", "Arabe"],
+                    "reponses_correctes": ["Anglais", "Français", "Espagnol", "Chinois", "Russe", "Arabe"],
+                    "nombre_choix": 6,
+                    "type": "multiple"
+                },
+                {
+                    "question": "Comment dit-on 'au revoir' en allemand ?",
+                    "reponses_possibles": ["Auf Wiedersehen", "Goodbye", "Adios", "Arrivederci", "Sayonara"],
+                    "reponses_correctes": ["Auf Wiedersehen"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quelles langues utilisent l'alphabet grec ?",
+                    "reponses_possibles": ["Grec moderne", "Grec ancien", "Copte", "Latin", "Hébreu"],
+                    "reponses_correctes": ["Grec moderne", "Grec ancien", "Copte"],
+                    "nombre_choix": 5,
+                    "type": "multiple"
+                },
+                {
+                    "question": "Comment dit-on 'oui' en russe ?",
+                    "reponses_possibles": ["Da", "Hai", "Si", "Ja", "Yes"],
+                    "reponses_correctes": ["Da"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quelles langues sont les plus parlées au monde ?",
+                    "reponses_possibles": ["Mandarin", "Anglais", "Hindi", "Espagnol", "Arabe", "Bengali"],
+                    "reponses_correctes": ["Mandarin", "Anglais", "Hindi", "Espagnol"],
+                    "nombre_choix": 6,
+                    "type": "multiple"
+                },
+                {
+                    "question": "Comment dit-on 'bon appétit' en portugais ?",
+                    "reponses_possibles": ["Bom apetite", "Bon appétit", "Buon appetito", "Buen provecho", "Enjoy your meal"],
+                    "reponses_correctes": ["Bom apetite"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                }
+            ]
+        },
+        {
+            "id": "culture générale",
+            "nom": "Culture Générale",
+            "nombre_questions": 10,
+            "questions": [
+                {
+                    "question": "Quel est la capitale du Pérou ?",
+                    "reponses_possibles": ["Lima", "Bogota", "Quito", "Santiago", "La Paz", "Caracas", "Buenos Aires"],
+                    "reponses_correctes": ["Lima"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quels sont les pays frontaliers du Pérou ?",
+                    "reponses_possibles": ["Brésil", "Bolivie", "Chili", "Équateur", "Colombie", "Venezuela", "Paraguay"],
+                    "reponses_correctes": ["Brésil", "Bolivie", "Chili", "Équateur", "Colombie"],
+                    "nombre_choix": 6,
+                    "type": "multiple"
+                },
+                {
+                    "question": "Comment dit-on plage en espagnol ?",
+                    "reponses_possibles": ["playa", "beach", "praia", "spiaggia", "strand", "plaża", "παραλία"],
+                    "reponses_correctes": ["playa"],
+                    "nombre_choix": 5,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quels sont les grands félins ?",
+                    "reponses_possibles": ["Lion", "Tigre", "Jaguar", "Léopard", "Chat", "Guépard", "Lynx"],
+                    "reponses_correctes": ["Lion", "Tigre", "Jaguar", "Léopard"],
+                    "nombre_choix": 6,
+                    "type": "multiple"
+                },
+                {
+                    "question": "Qui a peint La Joconde ?",
+                    "reponses_possibles": ["Léonard de Vinci", "Michel-Ange", "Raphaël", "Van Gogh", "Picasso"],
+                    "reponses_correctes": ["Léonard de Vinci"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quels sont les éléments chimiques les plus abondants dans le corps humain ?",
+                    "reponses_possibles": ["Oxygène", "Carbone", "Hydrogène", "Azote", "Calcium", "Fer"],
+                    "reponses_correctes": ["Oxygène", "Carbone", "Hydrogène", "Azote"],
+                    "nombre_choix": 6,
+                    "type": "multiple"
+                },
+                {
+                    "question": "En quelle année a eu lieu la Révolution française ?",
+                    "reponses_possibles": ["1789", "1792", "1799", "1804", "1815"],
+                    "reponses_correctes": ["1789"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quels sont les inventeurs du cinéma ?",
+                    "reponses_possibles": ["Les frères Lumière", "Thomas Edison", "Georges Méliès", "Charlie Chaplin"],
+                    "reponses_correctes": ["Les frères Lumière"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quels sont les pays membres permanents du Conseil de sécurité de l'ONU ?",
+                    "reponses_possibles": ["États-Unis", "Russie", "Chine", "France", "Royaume-Uni", "Allemagne", "Japon"],
+                    "reponses_correctes": ["États-Unis", "Russie", "Chine", "France", "Royaume-Uni"],
+                    "nombre_choix": 6,
+                    "type": "multiple"
+                },
+                {
+                    "question": "Qui a écrit 'Les Misérables' ?",
+                    "reponses_possibles": ["Victor Hugo", "Émile Zola", "Honoré de Balzac", "Alexandre Dumas", "Gustave Flaubert"],
+                    "reponses_correctes": ["Victor Hugo"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quels sont les principaux gaz à effet de serre ?",
+                    "reponses_possibles": ["Dioxyde de carbone", "Méthane", "Vapeur d'eau", "Protoxyde d'azote", "Oxygène"],
+                    "reponses_correctes": ["Dioxyde de carbone", "Méthane", "Vapeur d'eau", "Protoxyde d'azote"],
+                    "nombre_choix": 5,
+                    "type": "multiple"
+                },
+                {
+                    "question": "Quelle est la plus ancienne civilisation connue ?",
+                    "reponses_possibles": ["Sumérienne", "Égyptienne", "Chinoise", "Grecque", "Maya"],
+                    "reponses_correctes": ["Sumérienne"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quels scientifiques ont contribué à la théorie de la relativité ?",
+                    "reponses_possibles": ["Einstein", "Planck", "Bohr", "Newton", "Hawking", "Curie"],
+                    "reponses_correctes": ["Einstein", "Planck", "Bohr"],
+                    "nombre_choix": 5,
+                    "type": "multiple"
+                },
+                {
+                    "question": "Quel est le plus grand musée du monde ?",
+                    "reponses_possibles": ["Le Louvre", "Le British Museum", "L'Ermitage", "Le MET", "Le Prado"],
+                    "reponses_correctes": ["Le Louvre"],
+                    "nombre_choix": 4,
+                    "type": "simple"
+                },
+                {
+                    "question": "Quels sont les principaux nutriments essentiels ?",
+                    "reponses_possibles": ["Protéines", "Glucides", "Lipides", "Vitamines", "Minéraux", "Sucre"],
+                    "reponses_correctes": ["Protéines", "Glucides", "Lipides", "Vitamines", "Minéraux"],
+                    "nombre_choix": 6,
+                    "type": "multiple"
+                }
+            ]
+        }
+    ]
+}
